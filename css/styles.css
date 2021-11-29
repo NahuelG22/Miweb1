@@ -1,0 +1,132 @@
+.enlaces{
+    padding: 10px;
+    text-decoration: none;
+    margin-left:  10px;
+    margin-right: 5px;
+    color: black;
+}
+.barra ul li{
+    display: inline-block;
+    border-radius: 10px;
+    list-style: none;
+    font-size: 15px;
+}
+li.sin-orden{
+    list-style: none;
+}
+.fas{
+    color: rgb(230, 174, 32);
+}
+.fa-caret-square-up{
+    color: blue;
+}
+header, h1{
+  text-align: center;
+}
+.pagina{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.pagina1{
+    background-image: url(../img/fondo-futbol-degradado-dinamico_23-2149007789.jpg);
+}
+.pagina2{
+    background-image: url(../img/balón-de-fútbol-sobre-fondo-rojo-azul-y-blanco.jpg);
+}
+.pagina3{
+   background-image: url(../img/fondo-futbol-abstracto-degradado.jpg);
+}
+.pagina4{
+    background-image: url(../img/fondo-futbol-abstracto-degradado_.jpg);
+}
+.pagina5{
+    background-image: url(../img/fondo\ 3.jpg);
+}
+.pagina6{
+    background-image: url(../img/fondo\ 8.jpg);
+}
+h1, h2{
+    font-family: 'Patua One', cursive; 
+}
+p, a, li{
+    font-family: 'Bitter', serif;
+    color: white;
+}
+p .pagina2{
+    color: #010124;
+}
+img{
+    float: right;
+    width: 300px;
+}
+.img3{
+    float: none;
+}
+nav{
+    background-color: silver;
+    border: 50px;
+    display: flex;
+}
+a:hover.enlace{
+    background-color:red;
+    color: black;
+}
+a:hover.enlace-2{
+    background-color:#eb1a39;
+    color: #1e2be3;
+}
+a:hover.enlace-3{
+    background-color: #18a1db;
+    color: white;
+}
+a:hover.enlace-4{
+    background-color:blue;
+    color: red
+}
+a:hover.enlace-5{
+    background-color: black;
+    color: yellow;
+}
+a:active.enlace{
+    color: black;
+    border-style: outset;
+}
+a:active.enlace-2{
+    color: rgb(48, 1, 255);
+    border-style: outset;
+}
+a:active.enlace-3{
+    color: rgb(48, 1, 255);
+    border-style: outset;
+}
+a:active.enlace-4{
+    color: red;
+    border-style: outset;
+}
+a:active.enlace-5{
+    color: yellow;
+    border-style: outset;
+}
+li{
+    margin-left: 0px;
+}
+footer{
+    text-align: center;
+}
+.pagina2 p, .card-text{
+    color: black;
+}
+.pagina6 p{
+    color: mediumpurple;
+}
+.pagina7{
+    background-image: url(../img/fondo\ 6.jpg);
+}
+.pagina8{
+    background-image: url(../img/fondo\ 5.jpg);
+}
+.imgx{
+    float: left;
+    width: 500px;
+}
